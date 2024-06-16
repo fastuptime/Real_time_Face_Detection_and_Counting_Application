@@ -34,3 +34,6 @@ Uygulamayı çalıştırmak için:
 4. **Kapatma**: Çıkış için `q` tuşuna basın.
 
 ## Ekran Görüntüsü 📷
+
+![image](https://github.com/fastuptime/Real_time_Face_Detection_and_Counting_Application/assets/63351166/5cb16480-5d26-4148-b863-8c3925c721ff)
+
